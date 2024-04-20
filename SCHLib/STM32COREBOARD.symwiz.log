@@ -1,0 +1,8 @@
+STATUS: PSpice Model Import Wizard for "Capture" (16.6.0.d001)
+STATUS:  
+   INFO: OLB driven flow
+   INFO: Input File: E:\ALEGRO文档修改\《电路板设计与制作实用教程（ALLEGRO版）》资料包\ALLEGROLIB\SCHLIB\STM32COREBOARD.OLB
+   INFO: Symbol Name: 330R
+  ERROR: Active base model library not configured.
+Select a library to pick base models from.
+STATUS: 1 Error messages, 0 Warning messages

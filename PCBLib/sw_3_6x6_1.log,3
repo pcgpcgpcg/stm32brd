@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SW_3_6x6_1.dra                                )
+(    Software Version : 16.6-2015S082                                 )
+(    Date/Time        : Tue Jan 29 09:19:42 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = H:/Private/BME 215/Product/Allegro_product/AllegroLib/new_PCBLib
+    Name      = sw_3_6x6_1.psm
+    User      = Administrator
+    Machine   = hp28
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

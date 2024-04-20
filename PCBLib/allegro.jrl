@@ -1,0 +1,23 @@
+\t (00:00:01) allegro 16.6-2015 S083 (v16-6-112GM) Windows 32
+\t (00:00:01)     Journal start - Fri Feb 22 15:16:38 2019
+\t (00:00:01)         Host=hp28 User=Administrator Pid=41836 CPUs=8
+\t (00:00:01) CmdLine= F:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: H:/Private/BME 215/Product/Allegro_product/STM32CoreBoard-V1.0.0-20180218/AllegroLib/PCBLib/XH-6P.dra
+\i (00:00:03) trapsize 1391
+\i (00:00:03) trapsize 1331
+\i (00:00:03) trapsize 1401
+\i (00:00:04) trapsize 1055
+\i (00:00:04) trapsize 1055
+\i (00:00:04) generaledit 
+\i (00:00:06) open 
+\i (00:00:18) fillin "H:\Private\BME 215\Product\Allegro_product\STM32CoreBoard-V1.0.0-20180218\STM32COREBOARD.brd"
+\i (00:00:18) cd "H:\Private\BME 215\Product\Allegro_product\STM32CoreBoard-V1.0.0-20180218"
+\t (00:00:18) Opening existing design...
+\i (00:00:18) trapsize 6075
+\i (00:00:18) trapsize 5828
+\i (00:00:19) trapsize 6061
+\i (00:00:19) trapsize 6345
+\i (00:00:19) trapsize 6345
+\t (00:00:19)     Journal end - Fri Feb 22 15:16:56 2019

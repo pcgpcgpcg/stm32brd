@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : XH-6P.dra                                     )
+(    Software Version : 16.6-2015S082                                 )
+(    Date/Time        : Fri Feb 22 15:01:16 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = H:/Private/BME 215/Product/Allegro_product/STM32CoreBoard-V1.0.0-20180218/AllegroLib/PCBLib
+    Name      = xh-6p.psm
+    User      = Administrator
+    Machine   = hp28
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
